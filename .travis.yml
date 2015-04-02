@@ -3,5 +3,6 @@ notifications:
         rooms:
             - secure: JRLIQzkP4ZeHpIm+kx3cc8BlhR9L5nf/9wTmd3lXySkmlZKQbrv4XWM1YqDrlQztpyZdMPOzejHxwpfAVoMmnskQkKtJyJaqydxoJqyaKsWHNQj8GFGI852fD4CKK0fqZoaTJ7sdYxMpEhkFEewlVEE3NS+PFRbo3JHu1zKOPxo=#nexus5
             - secure: JRLIQzkP4ZeHpIm+kx3cc8BlhR9L5nf/9wTmd3lXySkmlZKQbrv4XWM1YqDrlQztpyZdMPOzejHxwpfAVoMmnskQkKtJyJaqydxoJqyaKsWHNQj8GFGI852fD4CKK0fqZoaTJ7sdYxMpEhkFEewlVEE3NS+PFRbo3JHu1zKOPxo=#aaaaaaa
+            - secure: cCO+9KX5axx7lgTg21SxAssNP7UKPIYdgpP7sHRL2NTuM6wRseE4RYBtfiz6Rr9As0Cpo2DfZWlSsbZ765gqDRYMeKP4HSeMaQx7Bc22Oe/nBr1ALYNp5iiflprMJW90wEbyqtwzJl3RzdALBjIvfljLKqFovsqEeK9dgE66Jy8=
         on_success: change
         on_failure: always
