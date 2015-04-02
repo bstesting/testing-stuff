@@ -1,0 +1,7 @@
+notifications:
+    slack:
+        rooms:
+          - 50bradslavin:s5B7HUZRW37DRNoEWRoBqLu3#nexus5
+          - 50bradslavin:s5B7HUZRW37DRNoEWRoBqLu3#aaaaaaa
+        on_success: change
+        on_failure: always
