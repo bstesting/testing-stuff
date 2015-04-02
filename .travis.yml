@@ -1,7 +1,7 @@
 notifications:
     slack:
-        secure:
-            - JRLIQzkP4ZeHpIm+kx3cc8BlhR9L5nf/9wTmd3lXySkmlZKQbrv4XWM1YqDrlQztpyZdMPOzejHxwpfAVoMmnskQkKtJyJaqydxoJqyaKsWHNQj8GFGI852fD4CKK0fqZoaTJ7sdYxMpEhkFEewlVEE3NS+PFRbo3JHu1zKOPxo=#nexus5
-            - JRLIQzkP4ZeHpIm+kx3cc8BlhR9L5nf/9wTmd3lXySkmlZKQbrv4XWM1YqDrlQztpyZdMPOzejHxwpfAVoMmnskQkKtJyJaqydxoJqyaKsWHNQj8GFGI852fD4CKK0fqZoaTJ7sdYxMpEhkFEewlVEE3NS+PFRbo3JHu1zKOPxo=#aaaaaaa
+        rooms:
+            - secure: JRLIQzkP4ZeHpIm+kx3cc8BlhR9L5nf/9wTmd3lXySkmlZKQbrv4XWM1YqDrlQztpyZdMPOzejHxwpfAVoMmnskQkKtJyJaqydxoJqyaKsWHNQj8GFGI852fD4CKK0fqZoaTJ7sdYxMpEhkFEewlVEE3NS+PFRbo3JHu1zKOPxo=#nexus5
+            - secure: JRLIQzkP4ZeHpIm+kx3cc8BlhR9L5nf/9wTmd3lXySkmlZKQbrv4XWM1YqDrlQztpyZdMPOzejHxwpfAVoMmnskQkKtJyJaqydxoJqyaKsWHNQj8GFGI852fD4CKK0fqZoaTJ7sdYxMpEhkFEewlVEE3NS+PFRbo3JHu1zKOPxo=#aaaaaaa
         on_success: change
         on_failure: always
